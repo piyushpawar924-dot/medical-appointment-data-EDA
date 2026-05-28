@@ -162,7 +162,7 @@ Medical_Appointments_Data_EDA.ipynb
 
 # 👨‍💻 Author
 
-PIYUSH PAWAR
+PIYUSH PAWAR <br>
 DATA ANALYTICS ENTHUSIAST
 
 If you like this project, give it a ⭐ on GitHub!
